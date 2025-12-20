@@ -16,7 +16,9 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ## How to Access
 
-Visit the live version of my portfolio at [BEST IGBEKELE]( https://best-wale.github.io/BEST-IGBEKELE/).
+Visit the live version of my portfolio at [BEST IGBEKELE](https://walex-projects.github.io/BEST_IGBEKELE/).
+
+
 
 ## Installation
 
